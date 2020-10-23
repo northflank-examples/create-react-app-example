@@ -6,7 +6,6 @@ ENV PATH /usr/src/app/node_modules/.bin:$PATH
 
 # Copy files required for package install
 COPY package.json  .
-COPY yarn.lock .
 RUN yarn install
 
 # Copy the remaining assets and build the application
