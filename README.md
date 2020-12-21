@@ -12,7 +12,7 @@ Deploy this Create React App (CRA) easily with [Northflank](https://www.northfla
 - Wait for the app to build and visit the newly assigned URL. That's it!
 
 ### Live Demo
-[https://default.create-react-app-demo.examples.northflank.northflank.app](https://default.create-react-app-demo.examples.northflank.northflank.app)
+[https://port--create-react-app-example--examples--northflank.northflank.app/](https://port--create-react-app-example--examples--northflank.northflank.app/)
 
 
 
