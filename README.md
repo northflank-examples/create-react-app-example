@@ -6,9 +6,8 @@
 
 Deploy this Create React App (CRA) easily with [Northflank](https://www.northflank.com):
 
-- Clone this repository
-- Select the repository in Northflank when creating a new service
-- Expose port 80
+- [Create a service from template on Northflank](https://app.northflank.com/s/project/create/template-service)
+- Select the Create React App template
 - Wait for the app to build and visit the newly assigned URL. That's it!
 
 ### Live Demo
