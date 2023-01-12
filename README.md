@@ -1,4 +1,4 @@
-# Northflank Create React App Example
+# Northflank Create React App template
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.northflank.com">
     <img alt="Northflank" align="right" src="/media/logo.svg" width="35%" />
@@ -9,6 +9,10 @@ Deploy this Create React App (CRA) easily with [Northflank](https://www.northfla
 - [Create a service from template on Northflank](https://app.northflank.com/s/project/create/template-service)
 - Select the Create React App template
 - Wait for the app to build and visit the newly assigned URL. That's it!
+
+You can now clone your repository locally and start making changes. Push your changes to automatically build and deploy the updated application!
+
+[Learn more about using Northflank](https://northflank.com/docs/).
 
 ### Live Demo
 [https://example--create-react-app--examples--nort-kcwl.code.run](https://example--create-react-app--examples--nort-kcwl.code.run)
